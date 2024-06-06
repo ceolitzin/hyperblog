@@ -4,3 +4,5 @@ Eres una basura.
 Espero no perderme. Mientras uso Git. Será mas facil usar github?
 
 Mañana.
+
+Prueba de si quedó el master corregido y el puñetero head.
